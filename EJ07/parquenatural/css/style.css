@@ -1,0 +1,20 @@
+h1 { 
+  text-align: center;
+  color: #5F8F11;
+  letter-spacing: .2em;
+  padding-top: 170px;
+  margin: 0;
+}
+
+h1 span{
+  color: #BF823B;
+  }     
+h2 {
+  color: #70AF0A;
+  border-bottom: #CFDFB5 1px solid;
+  }
+h3 { 
+  color: #BF823B;
+  margin-bottom:0; 
+  margin-top:25px;
+  }
