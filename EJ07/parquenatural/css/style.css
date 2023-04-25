@@ -1,20 +1,28 @@
 h1 { 
-  text-align: center;
-  color: #5F8F11;
-  letter-spacing: .2em;
-  padding-top: 170px;
-  margin: 0;
+    text-align: center;
+    color: #5F8F11;
+    letter-spacing: .2em;
+    padding-top: 170px;
+    margin: 0;
 }
 
 h1 span{
-  color: #BF823B;
-  }     
+    color: #BF823B;
+}     
 h2 {
-  color: #70AF0A;
-  border-bottom: #CFDFB5 1px solid;
-  }
+    color: #70AF0A;
+    border-bottom: #CFDFB5 1px solid;
+}
 h3 { 
-  color: #BF823B;
-  margin-bottom:0; 
-  margin-top:25px;
-  }
+    color: #BF823B;
+    margin-bottom:0; 
+    margin-top:25px;
+}
+
+div.contenido {
+    border: #d3d3d3 1px solid;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode';
+}

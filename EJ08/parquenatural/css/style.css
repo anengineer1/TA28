@@ -1,0 +1,62 @@
+h1 { 
+    text-align: center;
+    color: #5F8F11;
+    letter-spacing: .2em;
+    padding-top: 170px;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode';
+}
+
+
+h1 span{
+    color: #BF823B;
+}     
+h2 {
+    color: #70AF0A;
+    border-bottom: #CFDFB5 1px solid;
+}
+h3 { 
+    color: #BF823B;
+    margin-bottom:0; 
+    margin-top:25px;
+}
+
+#menu {
+  float: left;
+  width: 100px;
+  margin: 20px;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+ul { /* needed in order to leave space for side to side elements */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.float-container {
+    width: 900px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.sidebar{
+    width: 100px;
+}
+
+.coretext {
+    width: 750px;
+    border: #d3d3d3 1px solid;
+    margin: 20px 20px 10px 140px; 
+}
